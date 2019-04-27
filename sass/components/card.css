@@ -1,0 +1,12 @@
+.card {
+  background-color: orangered;
+  height: 50rem;
+  -webkit-transform: all;
+          transform: all;
+}
+
+.card:hover {
+  -webkit-transform: rotateY(180deg);
+          transform: rotateY(180deg);
+}
+/*# sourceMappingURL=card.css.map */
